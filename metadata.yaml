@@ -1,0 +1,22 @@
+_repo: Harper-s-New-Monthly-Magazine-No.-22-March-1852-Volume-4._32983
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Harper's New Monthly Magazine
+gutenberg_issued: '2010-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization -- Periodicals'
+- !lcsh 'American literature -- Periodicals'
+- !lcsh 'Culture -- Periodicals'
+- !lcc 'AP'
+title: Harper's New Monthly Magazine, No. 22, March, 1852, Volume 4.
+url: http://www.gutenberg.org/ebooks/32983

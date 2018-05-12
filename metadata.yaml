@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32983#Harper-s-New-Monthly-Magazine-No.-22-March-1852-Volume-4.
 gutenberg_bookshelf: Harper's New Monthly Magazine
 gutenberg_issued: '2010-06-26'
 gutenberg_type: Text
